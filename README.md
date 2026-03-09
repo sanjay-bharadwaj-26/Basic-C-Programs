@@ -21,8 +21,8 @@ A collection of beginner-level C programs covering fundamental concepts.
 
 ## How to Run
 ```bash
-gcc filename.c -o output
-./output
+gcc filename.c 
+./a.exe
 ```
 
 ## Author

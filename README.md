@@ -26,4 +26,4 @@ gcc filename.c
 ```
 
 ## Author
-Sanjay Bharadwaj
+N.Sanjay Bharadwaj
